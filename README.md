@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Agustin Santos</h1>
+<h1>Hi 👋, I'm Agustin Santos</h1>
 <h3 align="center">Blockchain dev and Security student</h3>
 
 <h3 align="left">Connect with me:</h3>
